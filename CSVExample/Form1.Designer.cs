@@ -1,6 +1,6 @@
 ﻿namespace CSVExample
 {
-    partial class Form1
+    partial class CsvFileReadWriteUI
     {
         /// <summary>
         /// Required designer variable.

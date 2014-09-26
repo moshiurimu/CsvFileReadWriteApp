@@ -17,3 +17,13 @@ F:\BASIS OOP ASP.NET 49 Batch\Home Works\CSVExample\CSVExample\CSVExample\obj\De
 F:\BASIS OOP ASP.NET 49 Batch\Home Works\CSVExample\CSVExample\CSVExample\obj\Debug\CSVExample.exe
 F:\BASIS OOP ASP.NET 49 Batch\Home Works\CSVExample\CSVExample\CSVExample\obj\Debug\CSVExample.pdb
 F:\BASIS OOP ASP.NET 49 Batch\Home Works\CSVExample\CSVExample\CSVExample\obj\Debug\CSVExample.csprojResolveAssemblyReference.cache
+F:\My Git\CsvFileReadWriteApp\CSVExample\bin\Debug\CSVExample.exe.config
+F:\My Git\CsvFileReadWriteApp\CSVExample\obj\Debug\CSVExample.exe
+F:\My Git\CsvFileReadWriteApp\CSVExample\obj\Debug\CSVExample.pdb
+F:\My Git\CsvFileReadWriteApp\CSVExample\bin\Debug\CSVExample.exe
+F:\My Git\CsvFileReadWriteApp\CSVExample\bin\Debug\CSVExample.pdb
+F:\My Git\CsvFileReadWriteApp\CSVExample\bin\Debug\CSVLib.dll
+F:\My Git\CsvFileReadWriteApp\CSVExample\obj\Debug\CSVExample.csprojResolveAssemblyReference.cache
+F:\My Git\CsvFileReadWriteApp\CSVExample\obj\Debug\CSVExample.CsvFileReadWriteUI.resources
+F:\My Git\CsvFileReadWriteApp\CSVExample\obj\Debug\CSVExample.Properties.Resources.resources
+F:\My Git\CsvFileReadWriteApp\CSVExample\obj\Debug\CSVExample.csproj.GenerateResource.Cache

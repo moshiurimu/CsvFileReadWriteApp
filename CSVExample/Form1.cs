@@ -12,9 +12,9 @@ using CSVLib;
 
 namespace CSVExample
 {
-    public partial class Form1 : Form
+    public partial class CsvFileReadWriteUI : Form
     {
-        public Form1()
+        public CsvFileReadWriteUI()
         {
             InitializeComponent();
         }
